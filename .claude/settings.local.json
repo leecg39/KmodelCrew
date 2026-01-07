@@ -7,7 +7,13 @@
       "Bash(npm run dev:*)",
       "Bash(mkdir:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: K모델크루 홈페이지\n\n- Next.js 14 + TypeScript + Tailwind CSS 기반 구축\n- Hero 섹션: 비디오 배경\n- About 섹션: CEO 이미지 및 회사 소개\n- Academy 섹션: 6개 프로그램 캐러셀 \\(입문반, 테크닉반, 프로반, 지도자과정, 라이브커머스반, 연기반\\)\n- Portfolio 섹션: 갤러리 이미지 및 라이트박스\n- Contact 섹션: 상담 신청 폼 및 연락처 정보\n- Header: 오시는길 클릭 시 네이버 지도 팝업\n- Design 폴더 TypeScript exclude 처리 \\(Netlify 빌드 에러 수정\\)\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git config:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
