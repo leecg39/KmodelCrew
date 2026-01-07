@@ -13,7 +13,7 @@ const About = () => (
                         className="w-full h-[750px] object-cover object-top shadow-2xl"
                     />
                     <div className="absolute -bottom-8 -right-8 bg-accent p-8 hidden lg:block">
-                        <p className="text-primary font-serif text-3xl italic">"Passion has no age."</p>
+                        <p className="text-primary font-serif text-3xl italic">&ldquo;Passion has no age.&rdquo;</p>
                     </div>
                 </div>
                 <div>
@@ -22,7 +22,7 @@ const About = () => (
                     <div className="space-y-6 text-body text-gray-700">
                         <p>
                             K모델크루 아카데미는 단순히 워킹을 가르치는 곳이 아닙니다.
-                            우리는 시니어 세대가 가진 삶의 깊이와 연륜을 '아름다운 표현'으로 승화시킬 수 있도록 돕는 파트너입니다.
+                            우리는 시니어 세대가 가진 삶의 깊이와 연륜을 &apos;아름다운 표현&apos;으로 승화시킬 수 있도록 돕는 파트너입니다.
                         </p>
                         <p>
                             전문적인 커리큘럼은 물론, 현직 모델과 디렉터로 구성된 강사진이

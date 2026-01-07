@@ -2,7 +2,7 @@
 "use client";
 
 import React, { useState } from 'react';
-import { Phone, Mail, MapPin, Instagram, CheckCircle, ChevronRight } from 'lucide-react';
+import { Phone, MapPin, Instagram, CheckCircle, ChevronRight } from 'lucide-react';
 import Button from '../ui/Button';
 import Input from '../ui/Input';
 
